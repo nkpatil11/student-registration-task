@@ -15,4 +15,4 @@ yarn install
 
 run server at path /student-registration-task/server (yarn start)
 
-run react app at path student-registration-task (yarn start)
+run react app at path /student-registration-task (yarn start)
